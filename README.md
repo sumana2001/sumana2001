@@ -1,7 +1,6 @@
-### Hi there 👋
+### Namaste, I am Sumana 🙈
 
-<!--
-**sumana2001/sumana2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sumana.basu2001@gmail.com
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I sleep more than I stay awake
--->
+
