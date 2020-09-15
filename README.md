@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Virtual Classroom
 - 🌱 I’m currently learning Unity,Algos
