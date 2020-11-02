@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Virtual Classroom
-- 🌱 I’m currently learning Unity,Algos
+- 🔭 I’m currently working on improving my skills
+- 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding
 - 💬 Ask me about tech related stuffs and dance
