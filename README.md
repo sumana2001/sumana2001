@@ -13,7 +13,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sleep more than I stay awake
 
-[![Sumana's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumana2001&theme=xcode)](https://git.io/sumana2001)
+[![Sumana's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumana2001&theme=react-dark&hide_border=true&area=true)](https://git.io/sumana2001)
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumana-basu/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sumanasuchira/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/sumana.basu.543)
 
