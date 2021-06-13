@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning MERN
+- 💖 I’m currently in love with MERN
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding
 - 💬 Ask me about technology and dance
